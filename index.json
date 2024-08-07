@@ -1,5 +1,5 @@
 {
-    "prod_version": "1.13.8",
-    "staging_version": "1.13.8",
-    "dev_version": "1.13.8"
+    "prod_version": "1.13.0",
+    "staging_version": "1.13.9",
+    "dev_version": "1.13.9"
 }
