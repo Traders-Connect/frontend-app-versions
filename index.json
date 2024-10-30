@@ -1,5 +1,8 @@
 {
     "prod_version": "1.16.6",
     "staging_version": "1.16.6",
-    "dev_version": "1.16.6"
+    "dev_version": "1.16.6",
+    "prod_under_maintenance": false,
+    "staging_under_maintenance": true,
+    "dev_under_maintenance": true
 }
