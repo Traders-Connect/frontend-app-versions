@@ -2,7 +2,7 @@
     "prod_version": "1.16.7",
     "staging_version": "1.16.7",
     "dev_version": "1.16.7",
-    "prod_under_maintenance": false,
+    "prod_under_maintenance": true,
     "staging_under_maintenance": false,
     "dev_under_maintenance": false
 }
