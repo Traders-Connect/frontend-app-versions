@@ -1,7 +1,7 @@
 {
-    "prod_version": "1.18.2",
-    "staging_version": "1.18.2",
-    "dev_version": "1.18.2",
+    "prod_version": "1.19.1",
+    "staging_version": "1.19.1",
+    "dev_version": "1.19.1",
     "prod_under_maintenance": false,
     "staging_under_maintenance": false,
     "dev_under_maintenance": false
