@@ -4,5 +4,6 @@
     "dev_version": "1.25.0",
     "prod_under_maintenance": false,
     "staging_under_maintenance": false,
-    "dev_under_maintenance": false
+    "dev_under_maintenance": false,
+    "proxyServer_version": "0.1.0"
 }
