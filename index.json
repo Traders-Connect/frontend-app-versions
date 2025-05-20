@@ -1,9 +1,9 @@
 {
-    "prod_version": "1.25.0",
-    "staging_version": "1.25.0",
-    "dev_version": "1.25.0",
+    "prod_version": "1.26.0",
+    "staging_version": "1.26.0",
+    "dev_version": "1.26.0",
     "prod_under_maintenance": false,
     "staging_under_maintenance": false,
     "dev_under_maintenance": false,
-    "proxyServer_version": "0.1.0"
+    "proxyServer_version": "0.1.2"
 }
